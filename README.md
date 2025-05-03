@@ -1,2 +1,2 @@
 # python作品集
-### *[hello_world](link)*
+### *[hello_world.py](link)*
